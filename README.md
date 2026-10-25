@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0334-increasing-triplet-subsequence) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3206-alternating-groups-i](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/3206-alternating-groups-i) |
 ## Sliding Window
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0104-maximum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
