@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
+| [0164-maximum-gap](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0164-maximum-gap) |
 | [0334-increasing-triplet-subsequence](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0334-increasing-triplet-subsequence) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3206-alternating-groups-i](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/3206-alternating-groups-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0164-maximum-gap) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
 |  |
@@ -52,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
