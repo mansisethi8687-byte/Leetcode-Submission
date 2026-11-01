@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0172-factorial-trailing-zeroes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0779-k-th-symbol-in-grammar) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0164-maximum-gap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0779-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
