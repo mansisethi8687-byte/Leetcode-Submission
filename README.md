@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0771-jewels-and-stones) |
 ## Union-Find
 |  |
 | ------- |
@@ -132,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
