@@ -12,7 +12,6 @@ public:
             int size=j-i+1;
             if(size>=l&&size<=r&&sum>0){
                 ans=min(ans,sum);
-                cout<<ans<<endl;
             }
 
         }
