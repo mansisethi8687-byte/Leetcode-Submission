@@ -14,7 +14,7 @@ public:
                 ans=min(ans,sum);
                 cout<<ans<<endl;
             }
-             if(size>r)   break;
+
         }
        }
        return ans==INT_MAX?-1:ans;
