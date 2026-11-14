@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3206-alternating-groups-i](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [3206-alternating-groups-i](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0709-to-lower-case](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0771-jewels-and-stones) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
