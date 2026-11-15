@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
+| [0387-first-unique-character-in-a-string](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0771-jewels-and-stones) |
 ## Union-Find
@@ -134,10 +135,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0771-jewels-and-stones) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/3364-minimum-positive-sum-subarray) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
