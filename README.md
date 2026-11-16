@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0771-jewels-and-stones) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
