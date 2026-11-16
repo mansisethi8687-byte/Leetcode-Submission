@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0164-maximum-gap) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
@@ -90,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0771-jewels-and-stones) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
