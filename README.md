@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0771-jewels-and-stones) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Prefix Sum
 |  |
 | ------- |
