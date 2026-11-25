@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -114,9 +115,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0477-total-hamming-distance) |
 | [0779-k-th-symbol-in-grammar](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
@@ -132,10 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## DP on Trees
 |  |
@@ -165,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
