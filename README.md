@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0477-total-hamming-distance) |
+| [1207-unique-number-of-occurrences](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3206-alternating-groups-i](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/3206-alternating-groups-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0771-jewels-and-stones) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1207-unique-number-of-occurrences](https://github.com/mansisethi8687-byte/Leetcode-Submission/tree/master/1207-unique-number-of-occurrences) |
 ## Union-Find
 |  |
 | ------- |
